@@ -1,5 +1,5 @@
 global.prefix = '/'; // Set Your Preferred Prefix
-global.botName = 'GIFTED-MD'; // Bot Name
+global.botName = '𝐂𝐨𝐨𝐥 𝐒𝐡𝐨𝐭 3'; // Bot Name
 global.botVersion = '2.0.2';
 global.botPic = 'https://files.catbox.moe/vsqy0l.jpg'; // Can use path, can also use link
 global.botToken = '7762960574:AAGwrB5rgHutDQDD9C2521t84nwQYLoxiY0'; // Replace With Your Bot Token (Get it from BotFather)
