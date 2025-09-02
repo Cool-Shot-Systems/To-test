@@ -1,8 +1,8 @@
 global.prefix = '/'; // Set Your Preferred Prefix
-global.botName = '𝐂𝐨𝐨𝐥 𝐒𝐡𝐨𝐭 3'; // Bot Name
+global.botName = 'Cool-Shot-V3'; // Bot Name
 global.botVersion = '2.0.2';
 global.botPic = 'https://files.catbox.moe/vsqy0l.jpg'; // Can use path, can also use link
-global.botToken = '7762960574:AAGwrB5rgHutDQDD9C2521t84nwQYLoxiY0'; // Replace With Your Bot Token (Get it from BotFather)
+global.botToken = '8431567021:AAGiW5eZ4SgWNQQDh77m9zCObJEurOOCsx0'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = 'Prof_essor2025'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Nairobi'; // Your Time Zone
 global.ownerId = [6649936329]; // Replace With Your Owner Chat ID(For Bot Owner), You Can Add More than 1
